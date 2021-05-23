@@ -1,4 +1,4 @@
-# Battle-Ship
+# Battle Ship
 
 ## To Play the Game
 Inside the game folder
