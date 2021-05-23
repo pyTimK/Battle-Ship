@@ -7,3 +7,5 @@ Inside the game folder
 activate.bat
 main.py
 ```
+
+![alt-text](https://github.com/pyTimK/Battle-Ship/blob/main/Battle%20Ship%20Screenshot.png)
