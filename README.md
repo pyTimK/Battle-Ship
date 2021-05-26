@@ -9,4 +9,4 @@ main.py
 ```
 
 ## Screenshot
-![f](https://github.com/pyTimK/Battle-Ship/blob/main/Battle%20Ship%20Screenshot.png)
+![alt text](https://github.com/pyTimK/Battle-Ship/blob/main/Battle%20Ship%20Screenshot.png)
