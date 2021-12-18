@@ -1,5 +1,9 @@
 # Battle Ship
+<<<<<<< HEAD
 verify?
+=======
+aa
+>>>>>>> d1db844c23878ef2f88a06d59cda3906f2d34e20
 ## To Play the Game
 Inside the game folder
 
