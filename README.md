@@ -1,5 +1,5 @@
 # Battle Ship
-verify? 3
+verify? 4
 
 ## To Play the Game
 Inside the game folder
