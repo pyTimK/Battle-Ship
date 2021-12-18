@@ -1,6 +1,6 @@
 # Battle Ship
 <<<<<<< HEAD
-verify?
+verify? 2
 =======
 aa
 >>>>>>> d1db844c23878ef2f88a06d59cda3906f2d34e20
